@@ -297,7 +297,7 @@ Spring 将自动为目标对象产生一个代理对象，此代理对象的作�
 
 
 
-![AOPwords](../../imgs/AOPwords.svg)
+![AOPwords](content/imgs/AOPwords.svg)
 
 
 
@@ -578,7 +578,7 @@ public class LogAspect {
 
 #### 切面执行原理
 
-![AspectOrder](../../imgs/AspectOrder.svg)
+![AspectOrder](content/imgs/AspectOrder.svg)
 
 
 
@@ -628,7 +628,7 @@ Spring 在启动时会扫描所有写好的组件，并制造相关的图纸，�
 
 
 
-![BeanFactory](../../imgs/BeanFactory.svg)
+![BeanFactory](content/imgs/BeanFactory.svg)
 
 
 

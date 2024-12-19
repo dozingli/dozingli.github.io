@@ -925,7 +925,7 @@ public class MyTestBeanPostProcessor implements BeanPostProcessor {
 
 ### 组件生命周期总结
 
-![img](../../imgs/BeanLifeCycle.svg)
+![img](content/imgs/BeanLifeCycle.svg)
 
 
 
@@ -1017,7 +1017,7 @@ Spring 提供了单元测试类的注解，使用 `@SpringBootTest` 修饰即可
 
 该类对存储位置有要求，即：**单元测试类所在的包，一定是主程序所在的包**。
 
-![testClassName](../../imgs/TestClassName.png)
+![testClassName](content/imgs/TestClassName.png)
 
 
 

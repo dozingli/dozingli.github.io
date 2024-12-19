@@ -306,7 +306,7 @@ application.properties 中可以将常用属性定义为 KV 对，使用 @Value(
 
 一言以蔽之，**激活优先，外部优先**。越靠近命令行的优先级越高，命令行优先级最高。
 
-![configPrior](../../imgs/config.png)
+![configPrior](content/imgs/config.png)
 
 
 
