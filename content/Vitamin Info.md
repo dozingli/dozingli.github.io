@@ -1,5 +1,3 @@
-# Vitamin Info
-> https://www.nhs.uk/conditions/vitamins-and-minerals/
 
 # Summary
 
@@ -82,3 +80,6 @@ The Department of Health and Social Care recommends that adults and children ove
 Taking 1,500mg or less a day is unlikely to cause any harm.
 
 
+ref: https://www.nhs.uk/conditions/vitamins-and-minerals/
+
+#Vitamin
