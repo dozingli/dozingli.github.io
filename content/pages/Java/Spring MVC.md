@@ -539,7 +539,7 @@ API: Web 应用**暴露出的**让别人访问的**请求路径**
 
 #### Pojo & Dao
 
-1. In dao, use JdbcTemplate to wirte basic crud (Can be found in [Spring 事务](../Spring/Spring事务.md)), like:
+1. In dao, use JdbcTemplate to wirte basic crud (Can be found in [Spring 事务](Spring%20事务.md)), like:
 
    ```java
    @Component

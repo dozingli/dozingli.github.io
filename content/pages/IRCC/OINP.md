@@ -4,18 +4,13 @@
 
 > Post-graduation working permit
 
-
-
 Starting February 15, 2024, students who graduate from **master’s degree programs of less than 2 years** (8 months minimum) may be eligible for a **3 year PGWP**.[^1]
 
 You can apply for a 3-year PGWP, even if the length of your master’s degree was less than 2 years, as long as you meet all other eligibility criteria.
 
-
-
 ## OINP Masters Graduate Stream[^2]
 
 > Ontario Immigrant Nominee Program
-
 
 
 ### Master’s graduate[^3]
@@ -41,8 +36,6 @@ i. Funds that are transferable, available and unencumbered by debts or other obl
 
 ii. A job offer in Ontario with annual earnings equal to the minimum necessary settlement amount or to the portion of that amount not accounted for under subparagraph i. O. Reg. 422/17, s. 8; O. Reg. 248/18, s. 5; O. Reg. 243/19, s. 6; O. Reg. 192/21, s. 5; O. Reg. 597/22, s. 4.
 
-
-
 #### Scoring factors
 
 **Had**: 
@@ -55,55 +48,32 @@ ii. A job offer in Ontario with annual earnings equal to the minimum necessary s
 
 total: **35 points**
 
-
-
 **Optional**:
 
-- CLB 8 (L 7.5, RWS 6.5) – 6 points / CLB 9 (L 8, RWS 7) – 10 points
-- 1 Official Language – 5 points / 2 Official Languages (CLB7 & CLB6) – 10 points
-- Northern Ontario – 10 points / outside GTA (except Northern Ontario) – 8 points
-
- 
-
-CLB8 + EN + 8 = 19				total: **54**			*EN Lowest*		~~Now~~
-
-CLB8 + EN + 10 = 21			      total: **56**			*EN Highest*
-
-
-
-CLB9 + EN + 8 = 23				 total: **58**			*8777 Lowest*
-
-CLB9 + EN + 10 = 25			       total: **60**			*8777 Highest* 
-
-
-
-CLB8 + **ENFR** + 8 = 24			    total: **59**			*EN FR Lowest*
-
-CLB8 + **ENFR** + 10 = 26			  total: **61**			*En FR Highest*
-
-
-
-CLB9 + **ENFR** + 8 = 28			     total: **63**			*8777 ENFR*
-
-CLB9 + **ENFR** + 10 = 30			   total: **65**			*8777 ENFR*
-
-
-
-**Conclusion**:
-
-8777 == 58 | 60
-
-FR == 59 | 61 | 63 | 65			   More reliable way.
-
-
-
-
-
-
+- Language
+	- CLB 8 (L 7.5, RWS 6.5) – 6 points 
+	- CLB 9 (L 8, RWS 7) – 10 points
+	  
+- FR or not
+	- 1 Official Language – 5 points
+	- 2 Official Languages (CLB7 & CLB6) – 10 points
+	  
+- outside GTA (except Northern Ontario) – 8 points
 
 ---
 
+**Conclusion**
 
+- CLB8
+	- CLB8 = 19				total: **54**
+	- CLB8 + **FR** = 24			total: **59**
+	  
+- CLB9
+	- CLB9 = 23				total: **58**
+	- CLB9 + **FR** = 28		         total: **63**
+
+
+---
 
 ## References
 

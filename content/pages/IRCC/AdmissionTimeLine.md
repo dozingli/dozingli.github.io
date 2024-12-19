@@ -5,7 +5,7 @@
 |         submit         | 2024-10-18 |
 | :--------------------: | :--------: |
 | preliminary assessment | 2024-11-01 |
-|         offer          | 2024-12-13 |
+|       **offer**        | 2024-12-13 |
 
 ### Ottawa ECEAI  ✅
 
@@ -13,14 +13,14 @@
 | :------------------: | :--------: |
 |   under evaluation   | 2024-11-14 |
 | all file is complete | 2024-11-06 |
-|        offer         | 2024-12-15 |
+|      **offer**       | 2024-12-15 |
 
 ### Windsor CS  ✅
 
 |         submit         | 2024-11-15 |
 | :--------------------: | :--------: |
 | evaluation in progress | 2024-11-17 |
-|         offer          | 2024-11-21 |
+|       **offer**        | 2024-11-21 |
 ### LakeHead CS  ⏳
 
 |        submit        | 2024-11-15 |
