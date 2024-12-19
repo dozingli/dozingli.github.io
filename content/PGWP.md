@@ -6,4 +6,4 @@ You can apply for a 3-year PGWP, even if the length of your master’s degree wa
 
 ref: https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html
 
-#PGWP
+#PGWP #Canada
