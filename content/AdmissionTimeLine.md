@@ -1,5 +1,3 @@
-# Admission Timeline
-
 ### Western  ECE  ✅
 
 |         submit         | 2024-10-18 |
@@ -38,3 +36,5 @@
 |         submit         | 2024-11-01 |
 | :--------------------: | :--------: |
 | preliminary assessment | 2024-11-07 |
+
+#Admission

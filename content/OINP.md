@@ -1,19 +1,6 @@
-# All info about OINP
-
-## PGWP
-
-> Post-graduation working permit
-
-Starting February 15, 2024, students who graduate from **master’s degree programs of less than 2 years** (8 months minimum) may be eligible for a **3 year PGWP**.[^1]
-
-You can apply for a 3-year PGWP, even if the length of your master’s degree was less than 2 years, as long as you meet all other eligibility criteria.
-
-## OINP Masters Graduate Stream[^2]
-
 > Ontario Immigrant Nominee Program
 
-
-### Master’s graduate[^3]
+### Master’s graduate
 
 **8.** For the purposes of subsection 16 (2) of the Act, the following criteria are prescribed for an applicant for a certificate of nomination in the master’s graduate category:
 
@@ -77,6 +64,8 @@ total: **35 points**
 
 ## References
 
-[^1]: https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html
-[^2]: https://www.ontario.ca/page/oinp-masters-graduate-stream
-[^3]: https://www.ontario.ca/laws/regulation/170422#BK9
+
+ref: https://www.ontario.ca/page/oinp-masters-graduate-stream
+ref: https://www.ontario.ca/laws/regulation/170422#BK9
+
+#OINP
