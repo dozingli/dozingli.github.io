@@ -15,6 +15,10 @@ This is Ethan's digital garden, a space where a curious CS student explores ever
 - Enjoy reading literature and social science books
 - Native in Mandarin, fluent in English, and learning French
 
+#### Frequently Used Tags
+
+#Canada 
+
 #### Links
 
 - Github: https://github.com/dozingli
