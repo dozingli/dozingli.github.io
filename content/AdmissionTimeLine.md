@@ -1,3 +1,10 @@
+### Western CS  ✅
+
+|         submit         | 2024-11-01 |
+| :--------------------: | :--------: |
+| preliminary assessment | 2024-11-07 |
+|       **offer**        | 2024-12-20 |
+
 ### Western  ECE  ✅
 
 |         submit         | 2024-10-18 |
@@ -31,10 +38,5 @@
 | :---------: | :--------: |
 | Application | 2024-10-26 |
 
-### Western CS  ⏳
-
-|         submit         | 2024-11-01 |
-| :--------------------: | :--------: |
-| preliminary assessment | 2024-11-07 |
 
 #Admission #Canada
