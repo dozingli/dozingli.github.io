@@ -25,3 +25,7 @@ This is Ethan's digital garden, a space where a curious CS student explores ever
 - Twitter: https://x.com/hereisb612
 - Telegram: https://t.me/Hereisb612
 - douban: https://www.douban.com/people/forty2
+
+#### Friendly Link
+
+- https://www.erenship.com/
