@@ -17,7 +17,7 @@ This is Ethan's digital garden, a space where a curious CS student explores ever
 
 #### Frequently Used Tags
 
-#Canada 
+#Canada #Moments 
 
 #### Links
 
