@@ -26,4 +26,4 @@
 	Lambda lambda = (a, b) -> a + b;
 ```
 
-#Lambda 
+#Lambda #Java 

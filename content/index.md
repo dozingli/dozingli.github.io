@@ -6,7 +6,6 @@ title: Hello!
 This is Ethan's digital garden, a space where a curious CS student explores everything.
 
 ---
-
 #### About Me
 
 - Studying at Hebei Normal University
@@ -15,9 +14,14 @@ This is Ethan's digital garden, a space where a curious CS student explores ever
 - Enjoy reading literature and social science books
 - Native in Mandarin, fluent in English, and learning French
 
+#### Currently Focusing On
+
+- Update notes from traditional to card notes.
+- Submitting a Study Permit Application.
+
 #### Frequently Used Tags
 
-#Canada #Moments 
+#Canada #Moments #LifeKit #Java
 
 #### Links
 
@@ -26,6 +30,7 @@ This is Ethan's digital garden, a space where a curious CS student explores ever
 - Telegram: https://t.me/Hereisb612
 - douban: https://www.douban.com/people/forty2
 
-#### Friendly Link
+#### Friendly Links
 
 - https://www.erenship.com/
+- 招租
